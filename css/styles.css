@@ -1,0 +1,22 @@
+/* CSS HEX */
+/* --cerise: #db2763ff;
+--june-bud: #b0db43ff;
+--fluorescent-blue: #12eaeaff;
+--uranian-blue: #bce7fdff;
+--opera-mauve: #c492b1ff; */
+
+nav {
+    background-color: #db2763ff;
+}
+
+.card {
+    margin: 0;
+}
+
+.card img {
+    max-height: 232.177px;
+}
+
+.carousel-item img {
+    max-height: 400px;
+}
